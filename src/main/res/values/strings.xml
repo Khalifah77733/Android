@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment 4</string>
+    <string name="tab_text_1">Log in</string>
+    <string name="tab_text_2">ScholarShip</string>
+    <string name="tab_text_3">Company</string>
+    <string name="tab_text_4">Assginment</string>
+    <string name="content_description_end_icon">You are in password</string>
+</resources>
